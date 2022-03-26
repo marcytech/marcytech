@@ -16,7 +16,7 @@ const myName = "Marciely Ribeiro"
 
 ![Snake animation](https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg)
 
-<style>
+<style lang="text/css">
   .container { 
     display:flex;
     width:100%;
