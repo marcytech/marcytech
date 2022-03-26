@@ -7,6 +7,9 @@ javascript
   <img  width="49.75%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&theme=algolia&layout=compact&show=javascript,html)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
+<div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
+  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 <br><br>
 
 ### Algumas tecnologias que domino
@@ -18,15 +21,11 @@ javascript
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
-  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
 <br><br>
 ### Tecnologias que estudo diariamente
 ----
 
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
 
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -41,32 +40,31 @@ javascript
 
 ### Tecnologias na mira, para os estudos
 ----
-
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />   
 </div>  
 
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>  
 
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>  
 
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  
 </div> 
 
-<div style="display: inline-block">
+<div style="display:flex;width:100%">
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
   <img align="center" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />
 </div>
