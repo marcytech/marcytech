@@ -22,6 +22,7 @@ javascript
 </div>
 
 <br>
+
 ### Tecnologias que estudo diariamente
 ----
 
@@ -40,6 +41,7 @@ javascript
 
 ### Tecnologias na mira, para os estudos
 ----
+
 <div style="display:flex;width:100%">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
