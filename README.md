@@ -4,8 +4,8 @@ const myName = "Marciely Ribeiro"
 
 <div class="container">
 
-  <img  class="img" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
+  <img  class="img1" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  class="img2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,15 +14,15 @@ const myName = "Marciely Ribeiro"
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-![Snake animation](https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](http://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg)
 
-<style lang="text/css">
+<style>
   .container { 
     display:flex;
     width:100%;
     }
 
-    .img {
+    .img1, .img2 {
       width: calc(50% - 15px);
     }
 
