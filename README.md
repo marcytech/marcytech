@@ -1,3 +1,19 @@
+<style>
+  .container { 
+    display:flex;
+    width:100%;
+    }
+
+    .img1, .img2 {
+      width: calc(50% - 15px);
+    }
+
+    .img + .img {
+      margin-left:30px;
+    }
+<style>
+
+
 ```javascript
 const myName = "Marciely Ribeiro"
 ```
@@ -16,17 +32,3 @@ const myName = "Marciely Ribeiro"
 
 ![Snake animation](http://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg)
 
-<style>
-  .container { 
-    display:flex;
-    width:100%;
-    }
-
-    .img1, .img2 {
-      width: calc(50% - 15px);
-    }
-
-    .img + .img {
-      margin-left:30px;
-    }
-<style>
