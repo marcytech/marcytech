@@ -18,12 +18,11 @@ javascript
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-<br><br>
-
 <div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
   <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
+<br><br>
 ### Tecnologias que estudo diariamente
 ----
 
