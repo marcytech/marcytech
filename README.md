@@ -4,9 +4,9 @@ const myName = "Marciely Ribeiro"
 
 <div style="display:flex;width:100%">
   
-  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="49.9%" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img  width="49.7%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="49.9%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
