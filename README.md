@@ -1,4 +1,4 @@
- **Olá eu sou Marciely!**✋
+ Olá eu sou Marciely!✋
 
 <div align="center">
   <a href="https://github.com/marcytech">
