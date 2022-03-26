@@ -16,7 +16,7 @@ const myName = "Marciely Ribeiro"
 </div>
 
 <div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;">
-  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
+  <img align="left" width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
