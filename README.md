@@ -20,6 +20,10 @@ javascript
 
 <br><br>
 
+<div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
+  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
 ### Tecnologias que estudo diariamente
 ----
 
@@ -52,11 +56,9 @@ javascript
 </div>  
 
 <div style="display: inline-block">
-
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 </div>  
 
 <div style="display: inline-block">
@@ -71,9 +73,7 @@ javascript
 </div>
 
 
-<div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
-  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+
 
 
 
