@@ -1,14 +1,12 @@
 ```javascript
 const myName = "Marciely Ribeiro"
 ```
-  
-  
 
 <div style="display:flex;width:100%">
   
-  <img style="width: calc(50% - 15px);" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=marcytech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img  style="width: calc(50% - 15px);margin-left:30px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcytech&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
