@@ -9,7 +9,12 @@
 </div>
 
 <div style="display:flex;width:100%;margin:0;padding:0;justify-content:flex-start;align-items:flex-start">
-  <img width="100%" style="margin:0;padding:0" src="https://github.com/marcytech/marcytech/blob/output/github-contribution-grid-snake.svg"/>
+
+
+  <img alt="github contribution grid snake animation" width="100%" style="margin:0;padding:0" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+
+
+  
 </div>
 <br>
 
